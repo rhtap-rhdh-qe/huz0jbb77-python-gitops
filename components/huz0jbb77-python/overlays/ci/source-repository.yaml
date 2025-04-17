@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: huz0jbb77-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/huz0jbb77-python
